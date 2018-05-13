@@ -15,5 +15,16 @@
         <file>MaSlider.qml</file>
         <file>MainPageUx.qml</file>
         <file>main.qml</file>
+        <file>RES/lunge.jpg</file>
+        <file>RES/wave.jpg</file>
+        <file>appconsole.cpp</file>
+        <file>appconsole.h</file>
+        <file>imagereader.cpp</file>
+        <file>imagereader.h</file>
+        <file>main.cpp</file>
+        <file>portlistener.h</file>
+        <file>portmanager.cpp</file>
+        <file>portmanager.h</file>
+        <file>typedefinitions.h</file>
     </qresource>
 </RCC>
