@@ -1,9 +1,19 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
-        <file>HomeForm.ui.qml</file>
-        <file>Page1Form.ui.qml</file>
-        <file>Page2Form.ui.qml</file>
         <file>qtquickcontrols2.conf</file>
+        <file>XRaySettings.qml</file>
+        <file>ToolBoxImageProcess.qml</file>
+        <file>TestTemplate.qml</file>
+        <file>TestQmlForm.ui.qml</file>
+        <file>TestQml.qml</file>
+        <file>PortSettingsWindowForm.ui.qml</file>
+        <file>PortSettingsWindow.qml</file>
+        <file>PortSettings.qml</file>
+        <file>PortConsole.qml</file>
+        <file>MotorControlForm.ui.qml</file>
+        <file>MotorControl.qml</file>
+        <file>MaSlider.qml</file>
+        <file>MainPageUx.qml</file>
+        <file>main.qml</file>
     </qresource>
 </RCC>
